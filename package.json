@@ -1,0 +1,19 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "Trying Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmehta/node-github-actions.git"
+  },
+  "author": "Binita Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmehta/node-github-actions/issues"
+  },
+  "homepage": "https://github.com/bmehta/node-github-actions#readme"
+}
